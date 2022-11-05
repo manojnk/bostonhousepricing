@@ -28,4 +28,20 @@ TO config user name and emailID (linked with github)
 git config --global user.name "name"
 git config --globaluser.email "email"
 ***
+git add and get status
+***
+git add .
+git status
+***
+to commit code
+***
+git commit -m " this commit includes requirement and readme file"
+***
+git push
+***
+git push <remote> <branch>
+git push origin main
+***
+
+
 
